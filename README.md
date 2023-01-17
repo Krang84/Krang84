@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krang84
 - 👀 I’m interested in Decentralized Finance
 - 🌱 I’m currently learning Solidity and Brownie
-- 💞️ I’m looking to collaborate on creat a curve.fi-like
+- 💞️ I’m looking to collaborate for creating a curve.fi-like
 - 📫 How to reach me -> on twitter (@Franky_974) 
 
 <!---
