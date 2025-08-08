@@ -1,0 +1,16 @@
+p {
+    color:green;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+     
+    color:blue
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
