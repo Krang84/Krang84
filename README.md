@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krang84
-- 👀 I’m interested in Decentralized Finance
-- 🌱 I’m currently learning Solidity and Brownie
+- 👀 I’m teaching calculus, linear algebra, probabilities and statistics for undergraduate community college students
+- 🌱 I’m also teaching machine learning for finance
 - 💞️ I’m looking to collaborate for creating a curve.fi-like
 
 
