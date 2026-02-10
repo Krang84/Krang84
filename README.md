@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krang84
 - 👀 I’m teaching calculus, linear algebra, probabilities and statistics for undergraduate community college students
 - 🌱 I’m also teaching machine learning for finance
-- 💞️ I’m looking to collaborate for creating a curve.fi-like
+- 💞️ I’m looking to create open-hardware for AI
 
 
 <!---
